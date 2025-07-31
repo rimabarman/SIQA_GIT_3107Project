@@ -12,7 +12,7 @@ packages:
   gitServerName: kvv
   gitUrl: https://github.com/Karthik-V-IBM-10
   gitUsername: Karthik-V-IBM-10
-  gitBranch: one_service
+  gitBranch: main
 services:
 - serviceName: project.siqa_git_3107.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections:Database_1
   packages:
